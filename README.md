@@ -22,6 +22,8 @@ I will just try to simulate the client side (web pages + order form) by using py
 -	Client order procedure via a windows form
 -	Order confirmation by email
 
+You can take a look at the demo video.
+
 To run this program, you need:
 
 - have wxPython (http://www.wxpython.org/download.php#msw) properly installed
