@@ -1,0 +1,4 @@
+menu_provider,menu_name,menu_ingredient_list,net_weight,associated_dessert,associated_drink,menu_price,menu_photo_url,type_of_sandwich
+Deli's Cafe,TUNA MAYONNAISE,Bread/Tuna/Salad/Eggs/Tomatoes,410g,Fruit Yogurt,Fenta,7.6,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuSfNGB6TK2O2Kv-nvsbSvgg1SBVX7fSgXe50cuZtiZTFe9Gt,Baguette
+PAUL,TOMATOES MOZZARELLA,Bread/Tomatoes/Mozzarella/Basil,395g,Chocolate muffin,Coca cola,7.2,https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREAYft_B_O_rhgnUlyiyIZ86XNaQraobvcvv1I-d2QQccIby9F-Q,Panini
+Pret a Manger,HOISIN DUCK WRAP,Tortilla Wrap/Roast duck/Red onion/Cucumber/Spinach,375g,Banana cake slice,Sparkling Water,9.4,https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1XZr-qIyEqjBObTd58duwOT-TUGL2GTvhzSUp7ryBqFbwXVv3,Wrap

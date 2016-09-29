@@ -1,0 +1,7 @@
+menu_provider,menu_name,menu_ingredient_list,net_weight,associated_dessert,associated_drink,menu_price,menu_photo_url,salad_sauce
+Deli's Cafe,MIXED SALAD,Salad/Ham/Emmental/Tomatoes/Corn/Mushrooms,450g,Chocolate mousse,Coca Cola,7.8,https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSWcYWdPwVXmoFqVqTL3Vj7B1VZzxIMl0HICxpapzW6JkHXstalQ,Olive oil
+MC Donald's,CAESAR SALAD,Salad/Chicken/Shallot/Parmesan/Crouton,390g,Brownie stick,Coca Cola,7.6,https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9tQ_AGTkmX1uiYgMBziKqArKc2cWIXE5wJkzxyFw1sQmU90iP,MC Donald's sauce
+Cojean,BEEF THAI SALAD,Minced beef/Cabbage/Carrot/Black mushroom/Coriander,380g,Organic white pineapple,Aloe drink,10.5,https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvCLn8bnwKmnhjVaQh8HXSdy5bM0M6HzLh32izTgnU-3qr7Quu6w,Thai sauce
+Cojean,POACHED EGG SALAD,Organic poached egg/Ratatouille/Peas/Green beans/Cherry tomatoes/Parmesan/Dill,410g,Cottage cheese,BADOIT,11.5,https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYKxaHnzSu54UdWo52i-nfUUyIq0HQtXbzESyVClg1XqLffyyD,Olive oil
+Pret a Manger,SUPERFOOD SALAD,Salad/Chunky humous/Edamame beans/Grated Beetroot/Cherry Tomatoes,450g,Double berry muffin,Orange juice,10.9,https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4lc07YXdctUCQerniqILWgtRi07EC7xGOLunvEDS0HF0vx87l,Special sauce
+Pret a Manger,SALMON SALAD,Roast Salmon/Edamame/Wakame Salad/Rice/Chillies/Sesame,380g,Fruit & Nuts,Sparkling Water,9.9,https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ2Gm3iJ7RBgG_mvRTK8iy60KgpDHusT4WjiS55dF7XNZ2Qg0smw,Teriyaki sauce

@@ -1,0 +1,4 @@
+menu_provider,menu_name,menu_ingredient_list,net_weight,associated_dessert,associated_drink,menu_price,menu_photo_url,type_of_bread,hamburger_sauce
+Roy,BBQ BACON BURGER,Ground beef/grilled bacon/salad/fries,450g,Fruits cheesecake,Evian water,14.2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlgkiLUVwILsFstUYj-CoEUW9D7kRdvPu7XmV129amqVauBwi8VQ,Potato roll,barbecue sauce/mustard sauce
+Lal's Cafe,GREEN BURGER,Grilled vegetables/Tomatoes/Salad/fries,430g,Apple Pie,Orange juice,15.5,https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG90KUnXAJHlc3IjEYbrtIcVagqWSxYqkXcLr1fKhXouo-NPk6,White bread,Mustard sauce
+La Croissanterie,GOAT CHEESE BURGER,Ground beef/Chopped goat cheese/Basil,450g,Fudge chocolate,Coca cola,13.8,https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU-CmorNBHRvK6-CJbpN0mCXOpfFOqAvuFQilmdlrJt9A_DlG3,White bread,american sauce
